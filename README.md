@@ -1,5 +1,34 @@
-### Hi there 👋
+## Hi there 👋
 
+My name is Micke Berg. 
+I´m a frontend developer from Stockholm, Sweden.
+
+Right now I´m looking for work at a really cool web agency 👀  😎 
+
+- [I want to do fun things like 😃](#categories)
+  - React
+  - Javascript
+  - CSS
+  - SASS
+  - Styled-components
+  - Web Animations
+  - Design
+  - UI
+  - HTML
+
+- [I can also do 👍](#categories)
+  - Redux
+  - Git
+  - Storybook
+  - Gatsby
+  - Angular
+  - SQL
+  - TyperScript
+  - .NET
+
+## 
+[linkedin](https://www.linkedin.com/in/mickeberg/) 💬 
+ 
 <!--
 **micke-berg/micke-berg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
