@@ -5,7 +5,7 @@ I´m a frontend developer from Stockholm, Sweden.
 
 Right now I´m looking for work at a really cool web agency 👀  😎 
 
-- [I want to do fun things like 😃](#categories)
+- I want to do fun things like 😃
   - React
   - Javascript
   - CSS
@@ -16,7 +16,7 @@ Right now I´m looking for work at a really cool web agency 👀  😎
   - UI
   - HTML
 
-- [I can also do 👍](#categories)
+- I can also do 👍
   - Redux
   - Git
   - Storybook
