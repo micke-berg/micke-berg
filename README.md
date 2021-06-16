@@ -1,4 +1,4 @@
-## Hi there! <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="30px">
+## Hi there! <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="32px">
 
 My name is Micke Berg. 
 I´m a frontend developer from Stockholm, Sweden.
