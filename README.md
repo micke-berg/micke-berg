@@ -1,10 +1,8 @@
-## Hi there 👋
+## Hi there! <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="30px">
 
 My name is Micke Berg. 
 I´m a frontend developer from Stockholm, Sweden.
 
-Right now I´m looking 👀 for work at a really COOL web agency 😎 
-<br>
 I have a great passion for Design, UI, Web Animations, and User experience.
 
 - I want to do fun things like 😃
