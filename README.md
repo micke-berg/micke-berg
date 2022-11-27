@@ -2,9 +2,9 @@
 
 ### My name is Micke Berg 👾
   
-     I am... profession="frontend developer" from={{ home: "Stockholm, Sweden🇸🇪" }}
+     About me... profession="frontend developer" from={{ home: "Stockholm, Sweden🇸🇪" }}
 
-     with a great passion for the visual side of frontend [ "Design", "UI", "Web Animations", "User experience" ]
+     I have a great passion for the visual side of frontend [ "Design", "UI", "Web Animations", "User experience" ]
      
 
       
