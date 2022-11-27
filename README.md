@@ -1,15 +1,14 @@
-# Hello World! <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="32px">
+# Hello World! <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"> 🌍
 
 ### My name is Micke Berg 👾
   
-     About me... profession="frontend developer" from={{ home: "Stockholm, Sweden🇸🇪" }}
+    <About>
+      < Micke profession="frontend developer" from={{ home: "Stockholm, Sweden🇸🇪" }} /> 
+      < I have a great passion for the visual side of frontend = [ "Design", "UI", "Animations", "User experience" ] /> 
+    </About>
 
-     I have a great passion for the visual side of frontend [ "Design", "UI", "Web Animations", "User experience" ]
-     
-
-      
-       
-   ## 🧰 &nbsp;My toolbox
+   
+## 🧰 &nbsp;My toolbox
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS"/> &nbsp; 
