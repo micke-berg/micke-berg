@@ -1,6 +1,4 @@
-# Hello World! <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="40px"> 🌍
-
-### My name is Micke Berg 👾
+# Hi! My name is Micke Berg 👾
   
 **Profession:** Frontend Developer  
 **Location:** Stockholm, Sweden  
@@ -14,9 +12,9 @@
 **Fun Fact:**  
 In addition to coding, I am a passionate music producer with several releases with my band, [Ghost Nation](https://open.spotify.com/artist/6Do08w6oBPO6wcOCwLT0gD?si=PaRKJSqNSOapcoTL1QaJbw) on Spotify.
 
+ &nbsp; 
+ &nbsp;
 
-
-   
 ## 🧰 &nbsp;My toolbox
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="50" height="50"/> &nbsp;
