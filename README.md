@@ -5,8 +5,8 @@
 
 **Skills:**
 - **Languages:** JavaScript, TypeScript (3+ years), Elm (1+ year)
-- **Frameworks:** React (3+ years), Elm-CSS (1+ year)
-- **Styling & Animations:** CSS3, SASS (4+ years)
+- **Frameworks:** React (3+ years)
+- **Styling & Animations:** CSS3, SASS (4+ years), Elm-CSS
 - **Tools:** Git, GitHub, Visual Studio Code, Figma
 
 **Fun Fact:**  
