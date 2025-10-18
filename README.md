@@ -4,10 +4,10 @@
 **Location:** Stockholm, Sweden  
 
 **Skills:**
-- **Languages:** JavaScript, TypeScript (3+ years), Elm (1+ year)
-- **Frameworks:** React (3+ years)
-- **Styling & Animations:** CSS3, SASS (4+ years), Elm-CSS
-- **Tools:** Git, GitHub, Visual Studio Code, Figma
+- **Languages:** JavaScript, TypeScript, Elm
+- **Frameworks:** React
+- **Styling & Animations:** CSS, SASS, Tailwind, Elm-CSS, Panda CSS, GSAP
+- **Tools:** Git, GitHub, Visual Studio Code, Cursor, Claude Code, Figma
 
 **Fun Fact:**  
 In addition to coding, I am a passionate music producer with several releases with my band, [Ghost Nation](https://open.spotify.com/artist/6Do08w6oBPO6wcOCwLT0gD?si=PaRKJSqNSOapcoTL1QaJbw) on Spotify.
