@@ -10,6 +10,15 @@ What drives me is a pretty simple question: *what happens if I actually try?*
 
 ---
 
+## 🌐 Portfolio
+
+| | |
+|---|---|
+| [**mickeberg.com**](https://mickeberg.com) | Personal portfolio & showcase |
+| [**ghostnation.se**](https://ghostnation.se) | Band website for Ghost Nation — designed and built by me |
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages:** JavaScript, TypeScript  
