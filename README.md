@@ -1,4 +1,4 @@
-# Hi, I'm Micke Berg
+# Hi, I'm Micke Berg 👾
 
 **Software Engineer** with a focus on **Frontend & AI tooling** — based in Stockholm, Sweden.
 
@@ -10,16 +10,14 @@ What drives me is a pretty simple question: *what happens if I actually try?*
 
 ---
 
-## Portfolio
+## 🌐 Portfolio
 
-| | |
-|---|---|
-| [**mickeberg.com**](https://mickeberg.com) | Personal portfolio & showcase |
-| [**ghostnation.se**](https://ghostnation.se) | Band website for Ghost Nation — designed and built by me |
+[![mickeberg.com](https://img.shields.io/badge/mickeberg.com-Personal%20Portfolio-111111?style=for-the-badge&logoColor=white)](https://mickeberg.com)  
+[![ghostnation.se](https://img.shields.io/badge/ghostnation.se-Band%20Website-111111?style=for-the-badge&logoColor=white)](https://ghostnation.se)
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages:** JavaScript, TypeScript  
 **Frameworks:** React, Next.js  
@@ -29,13 +27,13 @@ What drives me is a pretty simple question: *what happens if I actually try?*
 
 ---
 
-## My toolbox
+## 🤖 My toolbox
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass,figma,git,github,vscode" />
 
 ---
 
-## Fun Fact
+## 🎵 Fun Fact
 
 Outside of code, I'm a music producer — with several releases on Spotify with my band, [Ghost Nation](https://open.spotify.com/artist/6Do08w6oBPO6wcOCwLT0gD?si=PaRKJSqNSOapcoTL1QaJbw).
 
