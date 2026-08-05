@@ -1,42 +1,29 @@
-# Hi, I'm Micke Berg 👾
+# Micke Berg 👾
 
-**Software Engineer** with a focus on **Frontend & AI tooling** — based in Stockholm, Sweden.
+**Software engineer in Stockholm.** Frontend by trade, AI tooling by obsession.
 
-I've been building on the web for years with React, TypeScript, and Next.js. But an equally big part of my work now is understanding how AI tools are reshaping the way we work — and actually using them to do that.
+The obsession has slowly turned into part of the job. I run our internal AI forum at Avarda and wrote the AI guidelines we work from, while shipping React and TypeScript on a migration off legacy Elm.
 
-I've been deep in this space since ChatGPT launched in late 2022, putting in thousands of hours across a wide range of tools. Not just as a novelty, but to genuinely figure out what they're good at and where they fall short. I've set up workflows connecting Claude Code, Cursor, Windsurf, and GitHub Copilot with Jira, DevOps, and Figma in ways that open up entirely new ways of working. I've built agents, automated pipelines, and led a migration from Elm to React while implementing a full new design system.
+Most of the interesting work sits in the gap between what these tools promise and what they actually do. So I build there. Around thirty projects, most of them private, most of them some flavour of the same question: how do you run agents at scale without losing the thread?
+
+---
+
+### What I build
+
+[**watch-pr**](https://github.com/micke-berg/watch-pr) A local, read-only pull request watcher with a live dashboard and quiet, edge-triggered notifications. GitHub and Azure DevOps, cross-platform, zero dependencies.
+
+It exists because I kept context-switching to check whether anything needed my review. Nothing leaves the machine and it never writes to a repo.
+
+The rest is private for now. Happy to walk through any of it.
+
+### Stack
+
+TypeScript, React, Next.js, Node. Panda CSS, Tailwind, GSAP. Claude Code, MCP, Cursor, Codex. Elm when the legacy demands it.
+
+### Elsewhere
+
+[mickeberg.com](https://mickeberg.com) · [LinkedIn](https://www.linkedin.com/in/mickeberg/) · [Ghost Nation](https://ghostnation.se), the band I write and produce for, [on Spotify](https://open.spotify.com/artist/6Do08w6oBPO6wcOCwLT0gD)
+
+---
 
 What drives me is a pretty simple question: *what happens if I actually try?*
-
----
-
-## 🌐 Portfolio
-
-[![mickeberg.com](https://img.shields.io/badge/mickeberg.com-Personal%20Portfolio-111111?style=for-the-badge&logoColor=white)](https://mickeberg.com)  
-[![ghostnation.se](https://img.shields.io/badge/ghostnation.se-Band%20Website-111111?style=for-the-badge&logoColor=white)](https://ghostnation.se)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** JavaScript, TypeScript  
-**Frameworks:** React, Next.js  
-**Styling & Animations:** CSS, SASS, Tailwind, Panda CSS, GSAP  
-**AI Tools:** Claude Code, Cursor, Windsurf, GitHub Copilot, Warp  
-**Other Tools:** Git, GitHub, Figma, VS Code
-
----
-
-## 🤖 My toolbox
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,sass,figma,git,github,vscode" />
-
----
-
-## 🎵 Fun Fact
-
-Outside of code, I'm a music producer — with several releases on Spotify with my band, [Ghost Nation](https://open.spotify.com/artist/6Do08w6oBPO6wcOCwLT0gD?si=PaRKJSqNSOapcoTL1QaJbw).
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Micke%20Berg-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickeberg/)
